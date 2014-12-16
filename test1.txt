@@ -1,8 +1,0 @@
-﻿<<<<<<< HEAD
-eclipseからのプッシュテスト123
-456789
-AAA
-=======
-eclipseからのプッシュテスト123
-SourceTreeからコミット
->>>>>>> ec2f9aec1cb77815d6a35246302cf3de36b3ecfc
